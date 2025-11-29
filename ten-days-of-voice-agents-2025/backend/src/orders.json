@@ -1,0 +1,63 @@
+[
+    {
+        "order_id": "ORD-1764336769",
+        "timestamp": "2025-11-28T19:02:49.128339",
+        "items": [
+            {
+                "name": "Pasta",
+                "quantity": 1,
+                "price": 150.0
+            },
+            {
+                "name": "Peanut Butter",
+                "quantity": 1,
+                "price": 200.0
+            },
+            {
+                "name": "Bread",
+                "quantity": 1,
+                "price": 40.0
+            },
+            {
+                "name": "Eggs",
+                "quantity": 1,
+                "price": 65.0
+            }
+        ],
+        "total": 455.0,
+        "status": "received"
+    },
+    {
+        "order_id": "ORD-1764336960",
+        "timestamp": "2025-11-28T19:06:00.745313",
+        "items": [
+            {
+                "name": "Bread",
+                "quantity": 1,
+                "price": 40.0
+            },
+            {
+                "name": "Eggs",
+                "quantity": 1,
+                "price": 65.0
+            },
+            {
+                "name": "Sugar",
+                "quantity": 1,
+                "price": 45.0
+            },
+            {
+                "name": "Milk",
+                "quantity": 1,
+                "price": 55.0
+            },
+            {
+                "name": "Peanut Butter",
+                "quantity": 1,
+                "price": 200.0
+            }
+        ],
+        "total": 405.0,
+        "status": "received"
+    }
+]

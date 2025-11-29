@@ -1,0 +1,15 @@
+[
+  { "name": "Bread", "category": "groceries", "price": 40, "brand": "Britannia", "tags": ["sandwich", "breakfast"] },
+  { "name": "Eggs", "category": "groceries", "price": 65, "brand": "FreshFarm", "units": "6 pack" },
+  { "name": "Milk", "category": "groceries", "price": 55, "brand": "Amul", "units": "1L" },
+  { "name": "Tea Powder", "category": "groceries", "price": 120, "brand": "Tata", "tags": ["beverage"] },
+  { "name": "Sugar", "category": "groceries", "price": 45, "brand": "Dhampur" },
+
+  { "name": "Pasta", "category": "groceries", "price": 150, "brand": "Barilla", "tags": ["pasta-ingredient"] },
+  { "name": "Pasta Sauce", "category": "groceries", "price": 180, "brand": "Ragu", "tags": ["pasta-ingredient"] },
+
+  { "name": "Peanut Butter", "category": "snacks", "price": 200, "brand": "Pintola", "tags": ["sandwich"] },
+  { "name": "Chips", "category": "snacks", "price": 30, "brand": "Lays" },
+
+  { "name": "Veg Sandwich", "category": "prepared", "price": 90, "tags": ["ready-to-eat"] }
+]
